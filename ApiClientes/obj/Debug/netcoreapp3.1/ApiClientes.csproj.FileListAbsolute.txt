@@ -1,0 +1,13 @@
+C:\Users\Christian Baez\Desktop\Prueba Tecnica\New\ApiClientes\bin\Debug\netcoreapp3.1\ApiClientes.deps.json
+C:\Users\Christian Baez\Desktop\Prueba Tecnica\New\ApiClientes\bin\Debug\netcoreapp3.1\ApiClientes.runtimeconfig.json
+C:\Users\Christian Baez\Desktop\Prueba Tecnica\New\ApiClientes\bin\Debug\netcoreapp3.1\ApiClientes.runtimeconfig.dev.json
+C:\Users\Christian Baez\Desktop\Prueba Tecnica\New\ApiClientes\bin\Debug\netcoreapp3.1\ApiClientes.dll
+C:\Users\Christian Baez\Desktop\Prueba Tecnica\New\ApiClientes\bin\Debug\netcoreapp3.1\ApiClientes.pdb
+C:\Users\Christian Baez\Desktop\Prueba Tecnica\New\ApiClientes\obj\Debug\netcoreapp3.1\ApiClientes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Christian Baez\Desktop\Prueba Tecnica\New\ApiClientes\obj\Debug\netcoreapp3.1\ApiClientes.AssemblyInfoInputs.cache
+C:\Users\Christian Baez\Desktop\Prueba Tecnica\New\ApiClientes\obj\Debug\netcoreapp3.1\ApiClientes.AssemblyInfo.cs
+C:\Users\Christian Baez\Desktop\Prueba Tecnica\New\ApiClientes\obj\Debug\netcoreapp3.1\ApiClientes.csproj.CoreCompileInputs.cache
+C:\Users\Christian Baez\Desktop\Prueba Tecnica\New\ApiClientes\obj\Debug\netcoreapp3.1\ApiClientes.dll
+C:\Users\Christian Baez\Desktop\Prueba Tecnica\New\ApiClientes\obj\Debug\netcoreapp3.1\ApiClientes.pdb
+C:\Users\Christian Baez\Desktop\Prueba Tecnica\New\ApiClientes\obj\Debug\netcoreapp3.1\ApiClientes.genruntimeconfig.cache
+C:\Users\Christian Baez\Desktop\Prueba Tecnica\New\ApiClientes\obj\Debug\netcoreapp3.1\ApiClientes.csproj.AssemblyReference.cache
